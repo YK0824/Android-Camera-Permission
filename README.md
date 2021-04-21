@@ -34,6 +34,7 @@ Intent intent = new Intent(Settings.ACTION_APPLICATION_DETAILS_SETTINGS);
 intent.setData(uri_pack);
 startActivity(intent);
 ```
+![image](https://github.com/YK329-24/Android-Camera-Permission/blob/main/setting_permission_inf.PNG)
 
-
-YK Learn and Record. Keep going. My first android project.
+Thank you for your watching, YK's Learning and Record. My first android project.
+If your have any suggestions, welcome to discuss, There are still many shortcomings, thank you for your advice.
